@@ -63,3 +63,4 @@ Optional dependencies (extras such as `pandas[excel]`) are kept in `edges_all.cs
 
 - Mayank Nautiyal
 - Gaurav Gautam
+- Muhammad Annas XXX
