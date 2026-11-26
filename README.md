@@ -44,14 +44,12 @@ We turned the most downloaded packages on pypi into a network and asked one main
 ```bash
 pip install -r requirements.txt
 
-# 1. Collect the data (about 15–30 minutes; try --top 200 first)
-python collect_pypi.py --top 5000 --expand
+# 1. Collect the data (about 15–30 minutes; try top 200 first
+python collect_pypi.py top 5000, expand with some other important dependencies 
 
 # 2. Run the analysis (about 2–5 minutes)
 python analyse_pypi.py
 ```
-
-Random steps use a fixed seed (42), so you get the same numbers every run.
 
 ## Data sources
 
