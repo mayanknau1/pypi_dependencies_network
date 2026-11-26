@@ -1,0 +1,16 @@
+id,download_rank,pagerank_rank,in_degree,summary
+winrt-windows-foundation-collections,3996.0,136,10,PyWinRT projection of the Windows.Foundation.Collections namespace
+winrt-windows-foundation,3956.0,136,10,PyWinRT projection of the Windows.Foundation namespace
+winrt-runtime,3898.0,99,11,The runtime that every PyWinRT projection package runs on
+cmeel,3866.0,86,13,Create Wheel from CMake projects
+pyobjc-framework-cocoa,3369.0,158,11,Wrappers for the Cocoa frameworks on macOS
+pyobjc-core,3337.0,90,11,Python<->ObjC Interoperability Module
+pystac-core,2902.0,45,23,"Core functionality for PySTAC without extensions. Most users will want to use pystac, not this package"
+apache-airflow-task-sdk,2770.0,166,2,Python Task SDK for Apache Airflow DAG Authors
+trame-common,2674.0,170,3,Dependency less classes and functions for trame
+apache-airflow-core,2563.0,164,2,"Core packages for Apache Airflow, schedule and API server"
+typing,1986.0,83,12,Type Hints for Python
+azure-nspkg,1963.0,59,8,Microsoft Azure Namespace Package [Internal]
+backports-zoneinfo,1958.0,177,10,Backport of the standard library zoneinfo module
+livekit-agents,1945.0,161,9,A powerful framework for building realtime voice AI agents
+shiboken6,1832.0,188,1,Python/C++ bindings helper module

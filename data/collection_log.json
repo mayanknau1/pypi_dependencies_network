@@ -1,0 +1,10 @@
+{
+  "collected_at": "2026-11-20T18:34:38+00:00",
+  "seed_size": 5000,
+  "expanded": true,
+  "nodes": 5185,
+  "edges": 15256,
+  "missing_from_pypi": 1,
+  "optional_edges_dropped": 33632,
+  "edges_to_outside_dropped": 0
+}

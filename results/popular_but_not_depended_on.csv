@@ -1,0 +1,16 @@
+id,download_rank,in_degree,out_degree,summary
+editables,130.0,0,0,Editable installations
+pytest-cov,139.0,0,3,Pytest plugin for measuring coverage.
+s3transfer,33.0,1,1,An Amazon S3 Transfer Manager
+et-xmlfile,104.0,1,0,An implementation of lxml.xmlfile for the standard library
+ruff,85.0,1,0,"An extremely fast Python linter and code formatter, written in Rust."
+mypy,160.0,1,6,Optional static typing for Python
+hpack,179.0,1,0,Pure-Python HPACK header encoding
+psycopg-binary,181.0,1,0,PostgreSQL database adapter for Python -- C optimisation distribution
+kiwisolver,186.0,1,0,A fast implementation of the Cassowary constraint solver
+cycler,197.0,1,0,Composable style cycles
+contourpy,196.0,1,1,Python library for calculating contours of 2D quadrilateral grids
+iniconfig,26.0,2,0,brain-dead simple config-ini parsing
+mdurl,60.0,2,0,Markdown URL utilities
+annotated-doc,63.0,2,0,"Document parameters, class attributes, return types, and variables inline, with Annotated."
+aiosignal,71.0,2,2,aiosignal: a list of registered asynchronous callbacks
